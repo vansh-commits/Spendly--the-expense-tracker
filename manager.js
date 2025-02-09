@@ -1,7 +1,7 @@
 // Fetch stored data from localStorage
 let expenses = JSON.parse(localStorage.getItem('expenses')) || [];
 let totalIncome = parseFloat(localStorage.getItem('totalIncome')) || 0;
-let totalExpense = 0; // Initialize totalExpense to 0
+let totalExpense = 0; 
 let totalSavings = parseFloat(localStorage.getItem('totalSavings')) || 0;
 
 // Function to update the total expense

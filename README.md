@@ -13,7 +13,7 @@ This project is a simple **Expense Tracker and Currency Converter** built using 
 
 - **HTML** for structuring the web application.
 - **CSS** for styling the interface (currently not fully responsive).
-- **JavaScript** for interactivity and functionality.
+- **JavaScript** for interactivity and functionality. (Comments have been added for code readablity ☺️)
 - **Fetch API** to retrieve exchange rates.
 - **Local Storage API** for storing and retrieving expense and income data.
 
